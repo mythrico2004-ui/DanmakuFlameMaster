@@ -1,0 +1,1 @@
+["CO\\Downloads\\grama-suvidha-main","4\\grama-suvidha-main\\node_modules\\vite\\bin\\vite.js"]
